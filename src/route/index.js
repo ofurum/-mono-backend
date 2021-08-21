@@ -10,7 +10,7 @@ router.get('/banks', async (req, res) => {
             }
         }
         const searchedBank = await search()
-        if(!searchedBank) return res.json({message: "Bank not found"}).status(400)
+        if(!searchedBank) return res.status(400).json({message: "Bank not found"})
         res.json(searchedBank).status(200)
     } else {
         res.json(banks).status(200)

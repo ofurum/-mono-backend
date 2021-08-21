@@ -21,31 +21,31 @@ const banks = [
     },
     {
         name: "Wallet Africa",
-        image: "https://res.cloudinary.com/dovc2wq97/image/upload/v1629409678/Polaris_Bank_v95vz3.png"
+        image: "https://res.cloudinary.com/dovc2wq97/image/upload/v1629568130/wallet-africa-logo_liqx1y.png"
     },
     {
         name: "Access Bank",
-        image: ""
+        image: "https://res.cloudinary.com/dovc2wq97/image/upload/v1629568052/Access-and-Diamond-Bank-logo-brand_d0eeua.jpg"
     },
     {
         name: "FCMB",
-        image: "",
+        image: "https://res.cloudinary.com/dovc2wq97/image/upload/v1629568048/FCMB_Logo_tsqvvb.png",
     },
     {
         name: "Barter",
-        image: ""
+        image: "https://res.cloudinary.com/dovc2wq97/image/upload/v1629568051/bartetr_logo_jbx3aa.jpg"
     },
     {
         name: "Standard Chartered",
-        image: ""
+        image: "https://res.cloudinary.com/dovc2wq97/image/upload/v1629568046/standard-chartered-logo_nivmrv.webp"
     },
     {
         name: "Stanbic IBTC",
-        image: ""
+        image: "https://res.cloudinary.com/dovc2wq97/image/upload/v1629568044/Stanbic-IBTC-logo_nwg1qs.jpg"
     },
     {
        name: "Union Bank",
-       image: ""
+       image: "https://res.cloudinary.com/dovc2wq97/image/upload/v1629568036/union-logo_zyomy0.png"
     }
 ]
 
