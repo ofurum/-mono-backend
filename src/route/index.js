@@ -6,7 +6,7 @@ router.get('/banks', async (req, res) => {
     if(req.query.search) {
         let search = () => {
             for (let bank of banks){
-                if(bank.name.includes(req.query.search))  return [bank]
+                if(bank.name.toLocaleLowerCase().includes(req.query.search))  return [bank]
             }
         }
         const searchedBank = await search()
