@@ -4,7 +4,7 @@ const banks = [
         image: "https://res.cloudinary.com/dovc2wq97/image/upload/v1629408989/Zenith_Bank_u4kupq.png"
     },
     {
-        name: 'Gt bank',
+        name: 'GTBank',
         image: "https://res.cloudinary.com/dovc2wq97/image/upload/v1629408953/GTB_dwxywt.png"
     },
     {
